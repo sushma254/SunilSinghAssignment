@@ -1,0 +1,28 @@
+
+<resources>
+    <string name="app_name">SunilSinghAssignment</string>
+    <string name="your_ethereum_qr_code">YOUR ETHEREUM QR CODE</string>
+    <string name="your_ethereum_address">YOUR ETHEREUM ADDRESS</string>
+    <string name="txtEnthreum_balance">ENTHREU<u >M   BALANCE</u></string>
+    <string name="number_txt">23.97642</string>
+    <string name="dollar_number_txt">$ 5976.47</string>
+    <string name="txtNumberBtc">0.0916 BTC</string>
+    <string name="txtBTC">BTC</string>
+    <string name="txtEth">ETH</string>
+    <string name="txtLtc">LTC</string>
+    <string name="txtStm">STM</string>
+    <string name="txtDsh">DSH</string>
+    <string name="txt1ETH"> 1 ETH = </string>
+    <string name="day">DAY</string>
+    <string name="week">WEEK</string>
+    <string name="transaction_history">TRAN<u>SACTION  HIS</u>TORY</string>
+    <string name="send">SEND</string>
+    <string name="receive">RECEIVE</string>
+    <string name="buy_sell">BUY/SELL</string>
+    <string name="date">28 JULY 2017</string>
+    <string name="time"> 8:36 AM</string>
+    <string name="amount">Amount</string>
+    <string name="usd">USD</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
